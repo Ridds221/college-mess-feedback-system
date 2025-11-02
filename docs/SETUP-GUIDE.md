@@ -51,7 +51,7 @@ JWT_SECRET=your-secret-key
 PORT=5000
 
 text
-- For **MongoDB Atlas**, use your cluster connection string: `mongodb+srv://username:password@cluster0.mongodb.net/dbname?retryWrites=true&w=majority`
+
 - **PORT** can be 5000 (or any available port)
 
 ---
